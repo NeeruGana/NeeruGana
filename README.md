@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NeeruGana
-- 👀 I’m interested in cyber Sec,IoT.
+- 👀 I’m interested in CyberSec,IoT.
 - 🌱 I’m currently learning Ethical Hacking
 
-- 📫 How to reach me Twitter: @NeeruGana
+- 📫 Reach me out at Twitter: @NeeruGana
 
 <!---
 NeeruGana/NeeruGana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
