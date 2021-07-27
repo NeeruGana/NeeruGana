@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Ethical Hacking
 
 - 📫 Reach me out at Twitter: @NeeruGana
+- Or Mail me at ganasalaneeraj@gmail.com
 
 <!---
 NeeruGana/NeeruGana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
