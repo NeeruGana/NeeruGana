@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeeruGana
-- 👀 I’m interested in CyberSec,IoT.
+- 👀 I’m interested in InfoSec,IoT.
 - 🌱 I’m currently learning Ethical Hacking
 - More about me at: https://neerugana.github.io/
 
