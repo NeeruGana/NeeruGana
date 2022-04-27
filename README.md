@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neeraj Ganasala
 - 👀 I’m interested in InfoSec,IoT.
-- 🌱 I’m currently learning Ethical Hacking
+- 🌱 Hacking2Learn
 - More about me at: https://neerugana.github.io/
 
 - 📫 Reach me out at Twitter: @NeeruGana
